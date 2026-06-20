@@ -1,0 +1,6 @@
+{
+  "name": "CD Bites Cafe and Restaurant",
+  "description": "An exact replica of the provided e-commerce food template for CD Bites Cafe and Restaurant located in Swarganga, Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
